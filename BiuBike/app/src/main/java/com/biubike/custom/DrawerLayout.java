@@ -40,7 +40,7 @@ public class DrawerLayout extends LinearLayout {
 
     public void setListener(AllInterface.OnMenuSlideListener onMenuSlideListener) {
         this.onMenuSlideListener = onMenuSlideListener;
-    }
+}
 
 
     public DrawerLayout(Context context, AttributeSet attrs) {
